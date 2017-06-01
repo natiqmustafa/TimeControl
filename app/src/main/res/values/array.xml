@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_settings">
+        <item>@string/notifications</item>
+        <item>@string/spinnerLangLabel</item>
+        <item>@string/change_password</item>
+        <item>@string/str_sign_out</item>
+    </string-array>
+
+    <string-array name="arr_settings_desc">
+        <item>@string/notifications_desc</item>
+        <item>@string/select_lang_desc</item>
+        <item>@string/change_password_desc</item>
+        <item>@string/str_sign_out_desc</item>
+    </string-array>
+
+    <string-array name="arr_settings_tag">
+        <item>NOTIFICATION</item>
+        <item>LANG</item>
+        <item>DELETE_ALL</item>
+        <item>SIGN_OUT</item>
+    </string-array>
+</resources>

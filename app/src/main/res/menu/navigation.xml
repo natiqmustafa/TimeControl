@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_doing_list"
+        android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_done_list"
+        android:icon="@drawable/ic_playlist_add_check_black_24dp"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_pie_char"
+        android:icon="@drawable/ic_pie_chart_black_24dp"
+        android:title="@string/title_notifications" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/title_settigs" />
+
+</menu>
